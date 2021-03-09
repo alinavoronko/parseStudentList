@@ -1,3 +1,4 @@
+#backup of the file
 import csv
 import re
 with open('kurss.csv', 'r') as csv_file: #alias csv_file
